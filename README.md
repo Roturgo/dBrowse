@@ -1,7 +1,7 @@
 # dBrowse
 A Python 3 script to read and interact with a FAT disk image. The `disk.img` file implements a simplified version of FAT, with a block size of `512` bytes.
 
-Data Structures coursework for the [CSC 712](https://catalog.dsu.edu/preview_course_nopop.php?catoid=41&coid=25740) Data Structures course at [Dakota State University](https://dsu.edu/).
+Developed as part of the coursework for the [CSC 712](https://catalog.dsu.edu/preview_course_nopop.php?catoid=41&coid=25740) Data Structures course at [Dakota State University](https://dsu.edu/).
 
 ## Prerequisites
 * A recent Python 3 intepreter
